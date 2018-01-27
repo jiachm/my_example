@@ -1,8 +1,1 @@
-Git is a version control system.
-Git is free software.
-Git is a distributed version control system.
-Git is free software.
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git tracks changes.
-end
+这是我建议的第一哥github分支，我很高兴。
